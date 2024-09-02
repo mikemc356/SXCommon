@@ -1,4 +1,4 @@
-# SXCommon lirary
+# SXCommon library
 Common library for Passgen for Java
 
 ## Building
